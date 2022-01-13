@@ -1,6 +1,8 @@
 {
   "name": "api_github",
   "private": true,
+  "version": "1.0.0",
+  "description": "Projecto para la conexión con el api de github",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.1.3",
     "next": "12.0.8",
     "react": "17.0.2",
     "react-dom": "17.0.2"
@@ -18,5 +21,7 @@
     "eslint": "8.6.0",
     "eslint-config-next": "12.0.8",
     "typescript": "4.5.4"
-  }
+  },
+  "author": "Wilson Pérez @wilodev",
+  "license": "MIT"
 }
