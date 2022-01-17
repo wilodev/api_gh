@@ -23,6 +23,7 @@
       "@/layouts/*": ["./src/layouts/*"],
       "@/pages/*": ["./src/pages/*"],
       "@/styles/*": ["./styles/*"],
+      "@/types/*": ["./types/*"],
       "@/utils/*": ["./src/utils/*"]
     }
   },

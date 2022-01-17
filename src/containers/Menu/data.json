@@ -1,0 +1,17 @@
+[
+  {
+    "key": 1,
+    "title": "Inicio",
+    "url": "/"
+  },
+  {
+    "key": 2,
+    "title": "Buscar Usuario",
+    "url": "/users"
+  },
+  {
+    "key": 3,
+    "title": "Buscar Repositorios",
+    "url": "/repositories"
+  }
+]
