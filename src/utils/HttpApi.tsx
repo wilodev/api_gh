@@ -80,7 +80,7 @@ class HttpApi {
         `${urlServer}${url}?per_page=${limit}`,
         configData
       );
-      console.log("la respuesta es ", req);
+      //console.log("la respuesta es ", req);
       // Convertir la respuesta en formato json
       const json = await req.json();
       return json;
