@@ -1,4 +1,3 @@
-
 # Proyecto Api GitHub
 
 Este proyecto se basa en **NextJS** para la conexión al api de **GitHub**.
@@ -20,4 +19,6 @@ Este proyecto se basa en **NextJS** para la conexión al api de **GitHub**.
 1. `yarn dev` Para lanzar el proyecto en formato desarrollo.
 1. `http://localhost:3000` Abrir esta url en tu navegador de preferencia.
 
+### Proyecto en Producción
 
+1. `https://api-gh-o6zgrjf51-wilodev.vercel.app/` Abrir esta url en tu navegador de preferencia.
